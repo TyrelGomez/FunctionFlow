@@ -1,5 +1,5 @@
-# FunctionFlow
-FunctionFlow is a python library developed by the same person behind VertexEngine. It adds function control and flow in python.
+# FunctionController
+FunctionController is a python library developed by the same person behind VertexEngine. It adds function control and flow in python.
 
 ## Features
 
@@ -15,11 +15,11 @@ None.
 ## Install
 
 ```bash
-pip install FunctionFlow
+pip install FunctionController
 ```
 
 ## Who created this?
 It's the same creator who crated the VertexEngine SDK (me).
 
 ## License
-FunctionFlow is managed by the MIT License. This allows projects to use this library in their code. However, no warranty is provided and Attribution is required. The LICENSE file must also be in the project. Check the LICENSE file for more details.
+FunctionController is managed by the MIT License. This allows projects to use this library in their code. However, no warranty is provided and Attribution is required. The LICENSE file must also be in the project. Check the LICENSE file for more details.
