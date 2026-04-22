@@ -1,6 +1,8 @@
 # FunctionController
 FunctionController is a python library developed by the same person behind VertexEngine. It adds function control and flow in python.
 
+## 1.0.2 Changelog
+- Added Documentation
 ## Features
 
 - retry with fallback

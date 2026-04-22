@@ -1,9 +1,12 @@
 Metadata-Version: 2.4
 Name: FunctionController
-Version: 1.0.1
+Version: 1.0.2
 Summary: Function flow control decorators and runtime execution engine
 Author: Tyrel Miguel
-Project-URL: Homepage, https://github.com/TyrelGomez/FunctionFlow
+Project-URL: Documentation, https://functioncontrollerdocs.netlify.app
+Project-URL: Homepage, https://tyrel.onrender.com/function-controller
+Project-URL: Source, https://github.com/TyrelGomez/FunctionFlow
+Project-URL: Official Tech Site, https://tyrel.onrender.com
 Project-URL: Bug Tracker, https://github.com/TyrelGomez/FunctionFlow/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
@@ -16,6 +19,8 @@ Dynamic: license-file
 # FunctionController
 FunctionController is a python library developed by the same person behind VertexEngine. It adds function control and flow in python.
 
+## 1.0.2 Changelog
+- Added Documentation
 ## Features
 
 - retry with fallback

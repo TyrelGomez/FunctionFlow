@@ -6,7 +6,7 @@ where = ["."]
 
 [project]
 name = "FunctionController"
-version = "1.0.1"
+version = "1.0.2"
 description = "Function flow control decorators and runtime execution engine"
 readme = { file = "README.md", content-type = "text/markdown" }
 requires-python = ">=3.10"
@@ -22,7 +22,9 @@ classifiers = [
     "Operating System :: OS Independent"
 ]
 
-
 [project.urls]
-"Homepage" = "https://github.com/TyrelGomez/FunctionFlow"
+"Documentation" = "https://functioncontrollerdocs.netlify.app"
+"Homepage" = "https://tyrel.onrender.com/function-controller"
+"Source" = "https://github.com/TyrelGomez/FunctionFlow"
+"Official Tech Site" = "https://tyrel.onrender.com"
 "Bug Tracker" = "https://github.com/TyrelGomez/FunctionFlow/issues"
