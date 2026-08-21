@@ -3,6 +3,7 @@ from FunctionFlow.pause import pause
 from FunctionFlow.repeat import repeat
 from FunctionFlow.exitIF import exitFunctionIf
 from FunctionFlow.skipTo import skipToFunction
+from FunctionFlow.sleep import sleep, is_paused, pause_sleep, unpause
 
 try:
     print("FunctionFlow Initialized Successfully")

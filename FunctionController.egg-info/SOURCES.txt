@@ -11,3 +11,4 @@ src/FunctionFlow/exitIF.py
 src/FunctionFlow/pause.py
 src/FunctionFlow/repeat.py
 src/FunctionFlow/skipTo.py
+src/FunctionFlow/sleep.py
