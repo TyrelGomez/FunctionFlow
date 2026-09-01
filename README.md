@@ -1,6 +1,11 @@
 # FunctionController
 FunctionController is a python library developed by the same person behind VertexEngine. It adds function control and flow in python. You can do things like repeating a function, add execution delay, add fallbacks, and many more!
 
+## 1.3 Changelog
+- NEW DECORATOR: runList 
+
+## 1.2 Changelog
+- Added REPEATING UNTIL CONDITIONS! (supports asynchronous functions)
 ## 1.1 Changelog
 - Added SLEEP! (sleep(seconds))
 - Pausing sleep! (pause_sleep()) (not to be confused with pause())
